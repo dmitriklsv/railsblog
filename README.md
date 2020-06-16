@@ -2,8 +2,8 @@
 
 # Rails Blog
 
-> This is an my test project to create a fully functional website that will show the list of
-posts and empower readers to interact with them by adding comments and liking posts.
+> This is a project to create a fully functional website that will show the list of
+posts and empower readers to interact with them by adding comments.
 
 ## Built With
 
@@ -20,12 +20,7 @@ To get a local copy up and running follow these simple steps.
 - [x] A web browser like Google Chrome.
 - [x] A code editor with Git and Ruby.
 
-You can check if Git is installed by running the following command in the terminal.
-```
-$ git --version
-```
-
-Likewise for Ruby installation.
+You can check for Ruby installation.
 ```
 $ ruby --version && irb
 ```
